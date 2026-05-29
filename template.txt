@@ -1,0 +1,16 @@
+adauga in A partea dupa dec/DataSet/Data/ din C
+
+Exmplu 
+
+CAP1_R001_C1 dec/DataSet/Data/CAP1_R001_C1 
+
+pentru fiecare rand 
+
+Sorry Next varian Wrong - I Wrong
+
+Wrong like this - this is first row 
+CAP1_R001_C1_FILIAL	Rînd. 01 col.1	dec/DataSet/Data/CAP/CAP_R[line]/CAP1_R001_C1_FILIAL
+
+A - CAP1_R001_C1_FILIAL
+
+C - dec/DataSet/Data/CAP/CAP_R[line]/CAP1_R001_C1_FILIAL
